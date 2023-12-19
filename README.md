@@ -6,7 +6,7 @@ This repository contains:
 
 - A folder named `data` , that contains:
 
-    -A `.csv` with the data used to carry out this project. It can be found [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?resource=download)
+    -A `.csv` with the data used to carry out this project. It can be found [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?resource=download).
     - A `.md` file that explains the dataset.
 
 - A folder, named `images`, that contains the logo created with Canva for the fictional company to use throughout the report.
@@ -25,7 +25,7 @@ Este repositorio incluye:
 
 - Una carpeta llamada data, que contiene:
 
-    - Un archivo `.csv` con los datos utilizados para llevar a cabo este proyecto. Puedes encontrarlo [aquí](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?resource=download)
+    - Un archivo `.csv` con los datos utilizados para llevar a cabo este proyecto. Puedes encontrarlo [aquí](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?resource=download).
     - Un archivo `.md` que explica el conjunto de datos.
 
 - Una carpeta llamada `images`, que contiene el logotipo creado con Canva para la empresa ficticia y que ha sido usado a lo largo del informe.
