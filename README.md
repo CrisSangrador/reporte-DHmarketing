@@ -1,6 +1,6 @@
 # Report DH Marketing 📊📈
 
-This repository contains an interactive Power BI report for the fictional company DH Marketing. As part of the journey towards earning the pr Power BI certificate from Datahack and IBM, I've delved into a comprehensive analysis of data from the marketing department of this company. The premise of the project is the following: DH Marketing Consultants has hired you as a data analyst to explore and analyze a series of data from the marketing department. The marketing director needs to generate value through this dataset and requires you to do an analysis of its different campaigns, clients, products, etc. 
+This repository contains an interactive Power BI report for the fictional company DH Marketing. As part of the journey towards earning the Power BI certificate from Datahack and IBM, I've delved into a comprehensive analysis of data from the marketing department of this company. The premise of the project is the following: DH Marketing Consultants has hired you as a data analyst to explore and analyze a series of data from the marketing department. The marketing director needs to generate value through this dataset and requires you to do an analysis of its different campaigns, clients, products, etc. 
 
 This repository contains:
 
